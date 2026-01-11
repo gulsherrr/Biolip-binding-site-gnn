@@ -1,0 +1,11 @@
+pdb_id,chain,seq_len_csv,n_residues_parsed,n_ca_found,ca_coverage,note
+6DZI,Y,103,103,103,1.0,OK (close)
+2J8D,M,307,307,307,1.0,OK (close)
+4G4J,A,369,369,369,1.0,OK (close)
+8ZCR,A,329,329,329,1.0,OK (close)
+6HDE,B,152,152,152,1.0,OK (close)
+8JW0,i,126,126,126,1.0,OK (close)
+5A24,A,222,222,222,1.0,OK (close)
+6T62,A,244,244,244,1.0,OK (close)
+2RAG,A,369,369,369,1.0,OK (close)
+3TAW,A,349,345,345,1.0,OK (close)

@@ -1,0 +1,3 @@
+dataset,n_rows,n_unique_pdb,n_seq_len_min,n_seq_len_max,n_seq_len_mean,resolution_mean
+full_1200,1200,1164,80,500,265.09583333333336,2.286537441666667
+subset_200,200,200,80,498,241.4,2.2129410000000003
