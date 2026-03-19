@@ -45,7 +45,7 @@ Optional: store edge distance.
 
 ---
 
-## Labels (ground truth)
+## Labels
 
 Each residue/node gets a binary label:
 - `y[i] = 1` if residue i is annotated as binding-site in BioLiP  
